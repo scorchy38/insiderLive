@@ -11,5 +11,5 @@ class Global {
 
   static height(context) => MediaQuery.of(context).size.height;
   static width(context) => MediaQuery.of(context).size.width;
-  static String apikey = "paste your key here";
+  static String apikey = "94fa444fda0e4c328ad79003d3d4ba53";
 }
